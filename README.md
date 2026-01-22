@@ -24,4 +24,4 @@ to detail, data handling, and communication with stakeholders.
 ## Contact
 - Email: raulgastelum31@gmail.com
 - LinkedIn: www.linkedin.com/in/raul-gastelum
-- GitHub: raulgastelum.github.io
+- GitHub:[ raulgastelum.github.io](https://github.com/Rulas1919/raulgastelum.github.io)
