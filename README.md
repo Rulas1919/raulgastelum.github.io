@@ -16,12 +16,12 @@ to detail, data handling, and communication with stakeholders.
 ---
 
 ## Projects
-- [Churn Prediction (Telecommunications)](https://github.com/TUUSUARIO/churn-prediction)
-- [Mobile Plan Classification (Megaline)](https://github.com/TUUSUARIO/mobile-plan-classification)
+- [Churn Prediction (Telecommunications)](https://github.com/Rulas1919/churn-prediction-telecom)
+- [Taxi Demand Forecasting (Time Series)](https://github.com/TUUSUARIO/mobile-plan-classification)
 
 ---
 
 ## Contact
 - Email: raulgastelum31@gmail.com
 - LinkedIn: www.linkedin.com/in/raul-gastelum
-- GitHub: https://github.com/TU-USUARIO
+- GitHub: raulgastelum.github.io
