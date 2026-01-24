@@ -33,8 +33,3 @@ Machine learning model to predict the number of taxi orders for the next hour us
 - Portfolio: [ raulgastelum.github.io](https://github.com/Rulas1919/raulgastelum.github.io)
 ---
 
-## Projects
-- [Churn Prediction (Telecommunications)](https://github.com/Rulas1919/churn-prediction-telecom)
-- [Taxi Demand Forecasting (Time Series)](https://github.com/Rulas1919/taxi-demand-forecast)
-
----
