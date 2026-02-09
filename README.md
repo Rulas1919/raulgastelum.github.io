@@ -20,7 +20,7 @@ on classification problems such as churn prediction and text classification.
 ## 📂 Featured Projects
 - 🔹 **Churn Prediction (Telecommunications)**  
   Machine learning model to identify customers at risk of churn using Python and scikit-learn.  
-  👉 https://github.com/TUUSUARIO/churn-prediction-telecom
+  👉 https://github.com/Rulas1919/churn-prediction-telecom
 
 ## 📂 Featured Projects
 
