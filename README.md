@@ -26,7 +26,7 @@ on classification problems such as churn prediction and text classification.
 
 🔹 **Taxi Demand Forecasting (Time Series)**
 Machine learning model to predict the number of taxi orders for the next hour using historical time series data, with feature engineering (lags, rolling means) and model comparison. Achieved RMSE ≤ 48 on the test set.
-👉 https://github.com/TUUSUARIO/taxi-demand-forecasting
+👉 https://github.com/Rulas1919/taxi-demand-forecast
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/raul-gastelum
